@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Bitcoin",
+    "buy_count": 1.060124988736172,
+    "total_price": 10000.0,
+    "buy_price": 9432.85,
+    "current_total_price": 9898.100786082678,
+    "current_usd_price": 9336.73,
+    "total_earn_percent": -1.0189921391732242,
+    "earn_money": -101.89921391732241
+  },
+  {
+    "name": "Gas",
+    "buy_count": 315.2416169373016,
+    "total_price": 10000.0,
+    "buy_price": 31.7217,
+    "current_total_price": 9550.181736792165,
+    "current_usd_price": 30.2948,
+    "total_earn_percent": -4.498182632078351,
+    "earn_money": -449.8182632078351
+  }
+]
